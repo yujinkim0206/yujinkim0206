@@ -1,7 +1,7 @@
 <h1>Hi, I'm Yujin Kim 👋</h1>
 
 <p>
-B.Sc. Computer Science & Statistics @ University of Toronto (Class of 2027)
+I am a Computer Science & Statistics student at the University of Toronto (Class of 2027).
 </p>
 
 ### 🛠️ Tech Stack
