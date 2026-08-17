@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Yujin Kim 👋</h1>
+<h1>Hi, I'm Yujin Kim 👋</h1>
 
-<p align="center">
+<p>
 B.Sc. Double Major in Computer Science & Statistics @ University of Toronto (Class of 2027)
 </p>
 
