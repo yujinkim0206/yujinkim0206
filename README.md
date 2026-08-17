@@ -1,19 +1,17 @@
 <h1>Hi, I'm Yujin Kim 👋</h1>
 
 <p>
-B.Sc. Double Major in Computer Science & Statistics @ University of Toronto (Class of 2027)
+B.Sc. Computer Science & Statistics @ University of Toronto (Class of 2027)
 </p>
-
----
 
 ### 🛠️ Tech Stack
  
 **Languages**
- 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -32,7 +30,6 @@ B.Sc. Double Major in Computer Science & Statistics @ University of Toronto (Cla
 ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Prisma](https://img.shields.io/badge/PRISMA-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TAILWINDCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![REST APIs](https://img.shields.io/badge/RESTFUL%20APIS-005571?style=for-the-badge&logo=fastapi&logoColor=white)
  
 **Tools & Platforms**
  
@@ -41,11 +38,8 @@ B.Sc. Double Major in Computer Science & Statistics @ University of Toronto (Cla
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/SUPABASE-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Azure](https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS Amplify](https://img.shields.io/badge/AWS%20AMPLIFY-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
-![AWS EventBridge](https://img.shields.io/badge/AWS%20EVENTBRIDGE-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Cloudflare R2](https://img.shields.io/badge/CLOUDFLARE%20R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Cloudflare Pages](https://img.shields.io/badge/CLOUDFLARE%20PAGES-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Tableau](https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -61,3 +55,4 @@ B.Sc. Double Major in Computer Science & Statistics @ University of Toronto (Cla
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yujinkim0206/)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yujinkim0206@gmail.com)
+[![UofT Email](https://img.shields.io/badge/UOFT%20EMAIL-003A79?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:yuj.kim@mail.utoronto.ca)
