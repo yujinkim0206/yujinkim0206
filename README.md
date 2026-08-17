@@ -55,4 +55,4 @@ B.Sc. Computer Science & Statistics @ University of Toronto (Class of 2027)
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yujinkim0206/)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yujinkim0206@gmail.com)
-[![UofT Email](https://img.shields.io/badge/UOFT%20EMAIL-003A79?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:yuj.kim@mail.utoronto.ca)
+[![UofT Email](https://img.shields.io/badge/UOFT%20EMAIL-003A79?style=for-the-badge)](mailto:yuj.kim@mail.utoronto.ca)
