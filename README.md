@@ -48,7 +48,10 @@ I am a Computer Science & Statistics student at the University of Toronto (Class
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-stats-extended.vercel.app/api?username=yujinkim0206&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=yujinkim0206&show_icons=true&theme=dark&hide_rank=true&hide=stars&hide_border=true&bg_color=00000000#gh-dark-mode-only" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=yujinkim0206&show_icons=true&theme=default&hide_rank=true&hide=stars&hide_border=true&bg_color=00000000#gh-light-mode-only" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yujinkim0206&layout=compact&theme=dark&hide_border=true&bg_color=00000000#gh-dark-mode-only" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yujinkim0206&layout=compact&theme=default&hide_border=true&bg_color=00000000#gh-light-mode-only" />
 </p>
 
 ### 🔗 Connect
